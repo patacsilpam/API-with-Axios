@@ -1,0 +1,2 @@
+- comparing node.js vs axios
+- learning api request from axios
